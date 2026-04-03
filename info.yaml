@@ -1,8 +1,8 @@
 # Tiny Tapeout project information
 project:
   title:        "Analog Test Circuit ITS: VCO"      # Project title
-  author:       "Astria Nur Irfansyah"      # Your name
-  discord:      "irfansyah_99806"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  author:       "Nikitha D"      # Your name
+  discord:      "Nikitha D"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Voltage controlled ring oscillator. "      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
